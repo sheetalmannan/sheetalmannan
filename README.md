@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheetal</h1>
+<h1 align="center">Hi, I'm Sheetal</h1>
 <h3 align="center">I am a passionate Computer Engineering student</h3>
 
 - 🌱 I’m currently learning **R and Python**
